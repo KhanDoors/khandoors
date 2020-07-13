@@ -1,4 +1,4 @@
-### Hi there 👋
+### MERN Stacks, AWS, Salesforce and much much more ... 👋
 
 <!--
 **KhanDoors/khandoors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
