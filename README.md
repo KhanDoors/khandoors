@@ -1,4 +1,4 @@
-### MERN Stacks, AWS, Salesforce and much much more ... 💠💠
+### 💠 MERN Stacks, AWS, Salesforce and much much more ... 💠
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats)
 
