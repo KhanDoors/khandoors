@@ -9,8 +9,6 @@
 [<img align="left" alt="khandoors.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Syyad Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
-
 [website]: https://www.khandoors.com/
 [linkedin]: https://linkedin.com/in/syyad-khan-69865a55
 
