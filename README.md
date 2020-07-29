@@ -1,5 +1,9 @@
 ### MERN Stacks, AWS, Salesforce and much much more ... 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats)
+
 <!--
 **KhanDoors/khandoors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
