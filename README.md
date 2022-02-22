@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats)
 
+![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/v1645489388/feedback%20form/aws-certified-solutions-architect-professional.png)
+
 ### Connect with me:
 
 [<img align="left" alt="khandoors.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
