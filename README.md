@@ -2,9 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats) ![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/v1645489388/feedback%20form/aws-certified-solutions-architect-professional.png)
 
-![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/v1645489388/feedback%20form/aws-certified-solutions-architect-professional.png)
+x
 
 ### Connect with me:
 
