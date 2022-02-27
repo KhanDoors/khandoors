@@ -1,6 +1,7 @@
 ### 💠 MERN Stacks, AWS, Salesforce and much much more ... 💠
 
-![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/c_scale,w_199/v1646000168/Blog%20Images/aws-certified-solutions-architect-professional_3.png) [![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats) ![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/c_scale,w_199/v1646000168/Blog%20Images/aws-certified-solutions-architect-professional_3.png)
 
 
 
