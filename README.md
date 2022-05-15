@@ -21,7 +21,6 @@
 
 
 
-![youtubebanner1](https://user-images.githubusercontent.com/21695647/168471901-99b9460c-f324-467b-a9cb-5b4d2fe9a05c.png)
 
 <!--
 **KhanDoors/khandoors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
