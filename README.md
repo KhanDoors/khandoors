@@ -1,10 +1,11 @@
-### 💠 MERN Stacks, AWS, Salesforce and much much more ... 💠
+### 💠 AWS, Javascript, Python, Big Data and much much more ... 💠
+
+![youtubebanner1](https://user-images.githubusercontent.com/21695647/168471901-99b9460c-f324-467b-a9cb-5b4d2fe9a05c.png)
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=khandoors&show_icons=true&theme=radical)](https://github.com/khandoors/github-readme-stats) ![AWS Certified Solutions Architect – Professional](https://res.cloudinary.com/khandoors/image/upload/c_scale,w_199/v1646000168/Blog%20Images/aws-certified-solutions-architect-professional_3.png)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandoors&layout=compact)](https://github.com/khandoors/github-readme-stats) 
-
-
 
 
 
